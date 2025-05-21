@@ -1,0 +1,25 @@
+id: 660f05a1
+name: Login Functionality with github
+steps:
+- step_coordinates:
+    click_x: 0
+    click_y: 0
+  step_description: open https://www.crowd4test.com/platform/#/login
+  step_number: 1
+- step_coordinates:
+    click_x: 1129
+    click_y: 367
+  step_description: type madduridevi2@gmail.com in Enter your Username or email ID
+  step_number: 2
+- step_coordinates:
+    click_x: 1068
+    click_y: 476
+  step_description: type Agasthya@1 in Enter password
+  step_number: 3
+- step_coordinates:
+    click_x: 1448
+    click_y: 629
+  step_description: click Login
+  step_number: 4
+testcase_priority: High
+testcase_type: Functional
