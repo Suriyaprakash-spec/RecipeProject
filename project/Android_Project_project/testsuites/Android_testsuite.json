@@ -1,0 +1,12 @@
+{
+    "title": "Android_testsuite",
+    "description": "Android_Project testsuite testing",
+    "pre_requisite": "",
+    "labels": [
+        "1",
+        "2"
+    ],
+    "testcase": [
+        "Testerally_android_test"
+    ]
+}

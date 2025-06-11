@@ -1,0 +1,12 @@
+{
+    "title": "SmokeSuite",
+    "description": "Updated: Full smoke test suite",
+    "pre_requisite": "User must be logged in",
+    "labels": [
+        "smoke",
+        "updated"
+    ],
+    "testcase": [
+        "LoginTest"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "testcase_name": "Testerally_android_test",
+    "testcase_type": "Non-functional",
+    "testcase_priority": "Major",
+    "steps": [
+        {
+            "step_number": 1,
+            "step_description": "open chrome",
+            "teststep_result": "passed",
+            "step_coordinates": {
+                "click_x": 0,
+                "click_y": 0
+            },
+            "performed_output": "App com.android.chrome launched"
+        },
+        {
+            "step_number": 2,
+            "step_description": "type python in Search or type URL text field",
+            "teststep_result": "passed",
+            "step_coordinates": {
+                "command": "type python in Search or type URL text field"
+            },
+            "performed_output": "Typed: \"python\""
+        },
+        {
+            "step_number": 3,
+            "step_description": "click python text field",
+            "teststep_result": "passed",
+            "step_coordinates": {
+                "command": "tap python text field"
+            },
+            "performed_output": "Smart-tapped search_box: \"python\" text field"
+        }
+    ]
+}
